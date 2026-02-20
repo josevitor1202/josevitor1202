@@ -5,7 +5,7 @@ Estudante de **Engenharia Física na UFSCar** com foco em transformar fenômenos
 ### 🛠️ No que eu trabalho:
 - **Modelagem Computacional:** Desenvolvimento de modelos matemáticos para interpretação de dados físicos.
 - **Análise de Dados com Python:** Uso de bibliotecas como NumPy, Pandas e Matplotlib para extração de insights.
-- **Engenharia de Performance:** Atuação na equipe **Dragão Branco Aerodesign (UFSCar)** em análises de integridade estrutural. Desenvolvo scripts de **automação** para o cálculo de margens de segurança e avaliação de deflexões em componentes críticos, garantindo precisão técnica em projetos aeronáuticos.
+- **Engenharia de Performance:** Atuação na equipe **Dragão Branco Aerodesign** da UFSCar, onde realizo análises de integridade estrutural. Meu trabalho envolve o cálculo de margens de segurança e a avaliação de deflexões em componentes críticos, garantindo maior precisão técnica e segurança estrutural em projetos aeronáuticos sob diversas condições de carregamento.
 
 ### 🧪 Tecnologias e Ferramentas:
 - **Linguagens:** Python (Pandas, NumPy, SciPy, Matplotlib), SQL.
@@ -13,11 +13,14 @@ Estudante de **Engenharia Física na UFSCar** com foco em transformar fenômenos
 - **Análise Experimental:** Tracker (Videoanálise), Excel Avançado.
 - **Áreas de Interesse:** Física Aplicada à Aeronáutica, Ciência de Dados, Otimização Estrutural e Simulação.
 
-### 📊 Estatísticas e Linguagens 
-<div align="left">
+### 📊 Estatísticas e Linguagens:
+
+### 📊 Estatísticas e Linguagens:
+
+<p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josevitor1202&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josevitor1202&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+</p>
 
 ### 📫 Vamos nos conectar:
 - **LinkedIn:** www.linkedin.com/in/josevitor-dacosta
