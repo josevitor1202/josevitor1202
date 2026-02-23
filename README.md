@@ -13,17 +13,61 @@ Estudante de **Engenharia Física na UFSCar** com foco em transformar fenômenos
 - **Análise Experimental:** Tracker (Videoanálise), Excel Avançado.
 - **Áreas de Interesse:** Física Aplicada à Aeronáutica, Ciência de Dados, Otimização Estrutural e Simulação.
 
+
+## 🤖 Linguagens e Tecnologia
+
+  <img
+   align="left"
+   alt="CSS"
+   title="CSS"
+   width="30px"
+   style="padding-right: 10px;"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+   />
+          
+  <img
+   align="left"
+   alt="CSS"
+   title="CSS"
+   width="30px"
+   style="padding-right: 10px;"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansys/ansys-original.svg" 
+   />
+
+  <img  
+   align="left"
+   alt="CSS"
+   title="CSS"
+   width="30px"
+   style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
+   />
+ 
+
+##📊 Estatísticas
+
+<img
+align="left"
+alt="GitHub Stats"
+height="200"
+style="padding right: 10px;"
+src="https://github-readme-stats.vercel.app/api?username=josevitor1202%$%show_icons=true&theme=tokyonight&include_all_commits=true&locale-pt-br"
+/>
+
+<img
+align="left"
+alt="GitHub Stats"
+height="200"
+style="padding right: 10px;"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=josevitor1202&theme=tokyonight&custom_title=Tecnologias"
+/>
+
+
+
 ### 📫 Vamos nos conectar:
 - **LinkedIn:** www.linkedin.com/in/josevitor-dacosta
 - **E-mail:** josevitor.dacosta12@gmail.com
 
-[![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=josevitor1202)](https://github.com/josevitor1202/github-readme-stats)
 
-<div>
- <a href="https://github.com/josevitor1202">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josevitor1202&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josevitor1202&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
 
 *"Rigor científico aplicado à resolução de problemas reais."*
