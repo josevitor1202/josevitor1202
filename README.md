@@ -55,6 +55,15 @@ Estudante de **Engenharia Física na UFSCar** com foco em transformar fenômenos
 - **E-mail:** josevitor.dacosta12@gmail.com
 
 
+<h3 align="left">🔥   My Stats :</h3>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=josevitor1202&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+<div align="center">
+<p><img align="center" src="https://github-readme-flame.vercel.app/api/top-langs?username=josevitor1202&include_orgs=true&show_icons=true&theme=dark&locale=en&layout=compact" alt="matheusmarkies" /></p>
+</div
 
 
 *"Rigor científico aplicado à resolução de problemas reais."*
