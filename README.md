@@ -13,15 +13,17 @@ Estudante de **Engenharia Física na UFSCar** com foco em transformar fenômenos
 - **Análise Experimental:** Tracker (Videoanálise), Excel Avançado.
 - **Áreas de Interesse:** Física Aplicada à Aeronáutica, Ciência de Dados, Otimização Estrutural e Simulação.
 
-### 📊 Estatísticas e Linguagens:
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josevitor1202&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josevitor1202&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
-
 ### 📫 Vamos nos conectar:
 - **LinkedIn:** www.linkedin.com/in/josevitor-dacosta
 - **E-mail:** josevitor.dacosta12@gmail.com
+
+[![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=josevitor1202)](https://github.com/josevitor1202/github-readme-stats)
+
+<div>
+ <a href="https://github.com/josevitor1202">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josevitor1202&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josevitor1202&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
 
 *"Rigor científico aplicado à resolução de problemas reais."*
