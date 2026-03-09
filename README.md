@@ -62,7 +62,7 @@ Estudante de **Engenharia Física na UFSCar** com foco em transformar fenômenos
 </div>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-flame.vercel.app/api/top-langs?username=josevitor1202&include_orgs=true&show_icons=true&theme=dark&locale=en&layout=compact" alt="matheusmarkies" /></p>
+<p><img align="center" src="https://github-readme-flame.vercel.app/api/top-langs?username=josevitor1202&include_orgs=true&show_icons=true&theme=dark&locale=en&layout=compact" alt="josevitor1202" /></p>
 </div
 
 
