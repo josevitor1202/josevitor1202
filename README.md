@@ -11,7 +11,7 @@ Estudante de **Engenharia Física na UFSCar** com foco em transformar fenômenos
 - **Linguagens:** Python (Pandas, NumPy, SciPy, Matplotlib), SQL.
 - **Simulação e CAE:** Ansys (FEA), MATLAB, Modelagem Matemática.
 - **Análise Experimental:** Tracker (Videoanálise), Excel Avançado.
-- **Áreas de Interesse:** Física Aplicada à Aeronáutica, Ciência de Dados, Otimização Estrutural e Simulação.
+- **Áreas de Interesse:** Física Aplicada à Aeronáutica, Ciência de Dados, Desenvolvimento Front-end, Otimização Estrutural e Simulação.
 
 
 ## 🤖 Linguagens e Tecnologia
